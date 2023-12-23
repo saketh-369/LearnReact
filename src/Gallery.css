@@ -1,0 +1,9 @@
+.gallery_align {
+    width: 300px; /* Set your desired width */
+    height: 300px; /* Set your desired height */
+    background-color: cyan; /* Set your desired background color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+  }

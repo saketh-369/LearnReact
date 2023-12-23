@@ -1,0 +1,14 @@
+.login_box {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery_box {
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
