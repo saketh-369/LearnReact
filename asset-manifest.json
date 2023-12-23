@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saketh-369/LearnReact/static/css/main.238f8f2b.css",
+    "main.js": "/saketh-369/LearnReact/static/js/main.0d1dfc86.js",
+    "index.html": "/saketh-369/LearnReact/index.html",
+    "main.238f8f2b.css.map": "/saketh-369/LearnReact/static/css/main.238f8f2b.css.map",
+    "main.0d1dfc86.js.map": "/saketh-369/LearnReact/static/js/main.0d1dfc86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.238f8f2b.css",
+    "static/js/main.0d1dfc86.js"
+  ]
+}
